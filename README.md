@@ -1,2 +1,3 @@
 # Prediction App
-A frontend to the empiricast prediction system.
+
+A mobile app for calibrating your own probablistic predictions.
